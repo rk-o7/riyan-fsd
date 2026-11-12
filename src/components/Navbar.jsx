@@ -30,14 +30,14 @@ export default function Navbar({ activeTab, setActiveTab }) {
             </div>
             <div>
               <div className="flex items-center space-x-2">
-                <span className="font-display font-bold text-xl tracking-tight text-char">
-                  Terra<span className="text-leaf">Attend</span>
+                <span className="font-display font-bold text-lg sm:text-xl tracking-tight text-char">
+                  Student <span className="text-leaf">Attendance Management</span>
                 </span>
                 <span className="text-[10px] font-mono font-semibold px-2 py-0.5 rounded-full bg-honey text-char border border-amber-300">
-                  AI FACULTY
+                  FACULTY
                 </span>
               </div>
-              <p className="text-[11px] text-ink-muted hidden sm:block">Digital Attendance & Academic Intelligence</p>
+              <p className="text-[11px] text-ink-muted hidden sm:block">Digital Attendance & Academic Records</p>
             </div>
           </div>
 

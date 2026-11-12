@@ -178,7 +178,7 @@ export default function App() {
         </main>
 
         <footer className="border-t border-[#e9e2d1] bg-[#fbf7ef]/80 backdrop-blur-md py-6 text-center text-xs font-mono text-[#7c7768]">
-          <p>TerraAttend AI • Faculty Digital Attendance Management System</p>
+          <p>Student Attendance Management System • Faculty Digital Records</p>
           <p className="mt-1 text-[11px] opacity-75">Styled with TerraSense Warm Earth Natural Palette & Typography</p>
         </footer>
       </div>

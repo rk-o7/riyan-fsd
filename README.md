@@ -1,4 +1,4 @@
-# TerraAttend AI - Student Attendance Management System
+# Student Attendance Management System
 
 A modern, web-based digital attendance management platform designed for faculty members to record, track, and analyze student attendance in real time. Styled with the organic, warm-earth aesthetic of [TerraSense](https://terra-sense-virid.vercel.app/).
 
